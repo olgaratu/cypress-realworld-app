@@ -134,6 +134,7 @@ yarn cypress:open
 >
 > Avoid committing the modified `cypress.config.ts` into Git since the CI environments still expect the application to be run on default ports.
 
+
 ## Tests
 
 | Type      | Location                                 |
